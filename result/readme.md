@@ -1,6 +1,6 @@
 The classification results.
 
-The data structure is as follow
+The data is structured as follow
 
 dataset_id [ Accuracy , Precision, Recall, F1-score]
 
