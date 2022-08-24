@@ -18,7 +18,7 @@ manage.py
 - 9 : Clean Flow dataset -> genPerlabelDataset(uniqueness): Unique Dataset / non-unique Dataset(all)
 - 10: Unique Dataset -> All_unique_Dataset (testing purpose)
 - 11: Unique Dataset -> Sampled_Mix_Unique_Dataset (training purpose):
-- - 5 s/d 100 (in K -> 5000 - 100000)
+  - 5 s/d 100 (in K -> 5000 - 100000)
 
 ML.py
 - Run classifier for DDoS traffic classifier
