@@ -5,9 +5,9 @@ List of files:
 - stateful/manage.py: Manage flow dataset
 - stateful/ML.py: run legacy classifier to classify DDoS traffic
 
-Processing procedure
+Dataset processing procedure
 
-Raw dataset -> Flow dataset -> cleaning dataset -> PerLabel Dataset(unique/not) -> allDataest/mixDataset
+- Raw dataset -> Flow dataset -> cleaning dataset -> PerLabel Dataset(unique/not) -> allDataest/mixDataset
 
 FlowParserTraining.py
 - Raw dataset -> Flow dataset
