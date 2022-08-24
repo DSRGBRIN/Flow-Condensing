@@ -7,7 +7,7 @@ List of files:
 
 Dataset processing procedure
 
-- Raw dataset -> Flow dataset -> cleaning dataset -> PerLabel Dataset(unique/not) -> allDataest/mixDataset
+- Raw dataset -> Flow dataset -> cleaning dataset -> PerLabel Dataset(unique/not) -> allDataest/mixDataset -> Run classifier
 
 FlowParserTraining.py
 - Raw dataset -> Flow dataset
